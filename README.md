@@ -4,3 +4,5 @@ Documents attached includes
 - Excel cleaned data analysis
 - Excel cleaned and raw data
 - Power BI dashboard 
+
+Thank you. 
